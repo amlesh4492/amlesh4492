@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**amlesh4492/amlesh4492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amlesh Mishra from India, and I am a Junior FrontEnd developer. I really enjoy learning frontend languages like HTML, CSS, Javascript.
+You can check my Demo Project which i made using HTML and CSS https://thankful-woman.surge.sh/.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
